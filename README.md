@@ -1,7 +1,6 @@
 # CinnamonTeaProfileShop
 
 ## Darkness and Wings #43228488
-
 ### Credits
 
 《 CINNAMON TEA PROFILE SHOP 》
