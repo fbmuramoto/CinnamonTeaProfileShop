@@ -21,6 +21,6 @@
 <summary>Click to view the larger images</summary>
 
 ![Screenshot](screenshot.png)
-![Sample](sample.png)
+![Sample](sample.jpg)
 
 </details>
