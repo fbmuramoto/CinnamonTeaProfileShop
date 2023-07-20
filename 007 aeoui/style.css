@@ -34,9 +34,9 @@ All rights reserved.
 
 html,
 body {
-    background: url('https://i.ibb.co/P1NZKKb/corner-left.webp') left bottom/20% fixed no-repeat,
-        url('https://i.ibb.co/3FXpMzG/corner-right.webp') right top/40% fixed no-repeat,
-        #FAF2F0 url('https://i.ibb.co/fddmpBz/bg-full.webp') top left/cover fixed no-repeat;
+    background: url('https://i.imgur.com/va2VzHd.png') left bottom/20% fixed no-repeat,
+        url('https://i.imgur.com/1TBDclB.png') right top/40% fixed no-repeat,
+        #FAF2F0 url('https://i.imgur.com/5AO2w4o.jpg') top left/cover fixed no-repeat;
     overflow: hidden;
 }
 
@@ -103,7 +103,7 @@ a:hover {
 }
 
 #columns {
-    background: transparent url('https://i.ibb.co/3MXJXRG/layout.webp') center/1174px no-repeat;
+    background: transparent url('https://i.imgur.com/E6NPNgt.png') center/1174px no-repeat;
     width: 1280px;
     height: 650px;
     top: calc(50% - 325px);
@@ -176,8 +176,8 @@ a:hover {
 .panel:nth-of-type(odd) h2,
 .panel:nth-of-type(even) h2 {
     background: #DEB5C3;
-    mask: url('https://i.ibb.co/M6BGQRV/aeoui-elements.webp');
-    -webkit-mask: url('https://i.ibb.co/M6BGQRV/aeoui-elements.webp');
+    mask: url('https://i.imgur.com/n072Uxq.png');
+    -webkit-mask: url('https://i.imgur.com/n072Uxq.png');
     mask-size: 500px;
     -webkit-mask-size: 500px;
     mask-repeat: no-repeat;
@@ -266,15 +266,15 @@ a:hover {
 }
 
 #id_contact li:nth-of-type(1)::before {
-    background: url('https://i.ibb.co/mSQpcPz/add.webp') 0 0 / 35px;
+    background: url('https://i.imgur.com/LHTk5nq.png') 0 0 / 35px;
 }
 
 #id_contact li:nth-of-type(2)::before {
-    background: url('https://i.ibb.co/0fRk5kY/msg.webp') 0 0 / 35px;
+    background: url('https://i.imgur.com/n5AiWKY.png') 0 0 / 35px;
 }
 
 #id_contact li:nth-of-type(3)::before {
-    background: url('https://i.ibb.co/3MCQRx9/trd.webp') 0 0 / 35px;
+    background: url('https://i.imgur.com/wMjUsi6.png') 0 0 / 35px;
 }
 
 #id_contact li * {
@@ -331,7 +331,7 @@ a:hover {
 }
 
 .media_panel {
-    background: url('https://i.ibb.co/W6yb9jG/media.webp') center top/110px no-repeat;
+    background: url('https://i.imgur.com/xBJbIgl.png') center top/110px no-repeat;
     width: 115px;
     height: 40px !important;
     top: 460px;
