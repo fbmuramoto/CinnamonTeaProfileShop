@@ -10,3 +10,9 @@
 - Illustrations, Stock, and Fonts: [Freepik](http://www.freepik.com) and [Canva](HTTP://www.canva.com).
 
 🇦‌🇱‌🇱‌ 🇷‌🇮‌🇬‌🇭‌🇹‌🇸‌ 🇷‌🇪‌🇸‌🇪‌🇷‌🇻‌🇪‌🇩‌.
+
+### Samples
+
+![Sample](sample.png)
+
+![Live Preview](full_profile02liveS.gif)
