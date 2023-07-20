@@ -9,14 +9,17 @@
 - Owner: Darkness and Wings #43228488
 - Illustrations, Stock, and Fonts: [Freepik](http://www.freepik.com) and [Canva](HTTP://www.canva.com).
 
-🇦‌🇱‌🇱‌ 🇷‌🇮‌🇬‌🇭‌🇹‌🇸‌ 🇷‌🇪‌🇸‌🇪‌🇷‌🇻‌🇪‌🇩‌.
+<sup><sub>ALL RIGHTS RESERVED.</sub></sup>
 
 ### Samples
 
-<center>
-<img src="full_profile02liveS.gif">
+![Live Preview](full_profile02liveS.gif)
 
-<img src="sample.png" width="300" align="left">
-<img src="full_profile03a.png" width="340">
-<img src="full_profile03b.png" width="340">
-</center>
+<details>
+<summary>Click to view the larger images</summary>
+
+![Sample](sample.png)
+![Top](full_profile03a.png)
+![Bottom](full_profile03b.png)
+
+</details>
