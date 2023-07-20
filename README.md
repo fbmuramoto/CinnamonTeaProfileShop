@@ -1,12 +1,26 @@
-Documentation
----
+# Documentation
 
 《 CINNAMON TEA PROFILE SHOP 》
 
 > A Profile Graphics and Coding Shop.<br>
 > ‌Visit the [Thread](https://www.gaiaonline.com/forum/t.97207419/) here.
 
-All coding added to these branches are available *only* for using at [Gaia Online](http://www.gaiaonline.com) by their original owners.<br>
-Please, do not copy these codings unless it was created for you.
+- Author: FlaMarie #171192
+- Owner: imalwaystiired #744322
+- Illustration: fruit barrettes #42889589 @ [Gaia Online](http://www.gaiaonline.com/).
+- Stock: coolvector @ [Freepik](http://www.freepik.com), rawpixel.com @ [Freepik](http://www.freepik.com), [Canva](HTTP://www.canva.com).
+- Coding Tester:  AlthIndor #273173
 
-Thanks.
+<sup><sub>ALL RIGHTS RESERVED.</sub></sup>
+
+### Samples
+
+![Live Preview](livepreview.gif)
+
+<details>
+<summary>Click to view the larger images</summary>
+
+![Screenshot](screenshot.png)
+![Sample](sample.png)
+
+</details>
