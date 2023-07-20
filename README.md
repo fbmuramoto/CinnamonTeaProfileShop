@@ -13,6 +13,5 @@
 
 ### Samples
 
-![Sample](sample.png | width=600)
-
-![Live Preview](full_profile02liveS.gif | width=600)
+<img src="sample.png" width="600">
+<img src="full_profile02liveS.gif" width="600">
