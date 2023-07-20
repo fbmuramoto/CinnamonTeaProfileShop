@@ -13,7 +13,7 @@
 
 ### Samples
 
-<img src="sample.png" width="600" align="left">
-<img src="full_profile03a.png" width="600">
-<img src="full_profile03b.png" width="600">
+<img src="sample.png" width="300" align="left">
+<img src="full_profile03a.png" width="300">
+<img src="full_profile03b.png" width="300">
 <img src="full_profile02liveS.gif" width="600">
